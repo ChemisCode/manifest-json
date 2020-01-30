@@ -1,0 +1,38 @@
+{
+  "name": "ChemisCode",
+  "short_name": "ChemisCode",
+  "start_url": "https://ensikimia.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#164162",
+  "theme_color": "#164162",
+  "description": "Berbagi Ilmu",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-48yddRaaZoo/XjJ3rm3CLNI/AAAAAAAAALE/Pvcih_vGVrAsR48oRFdbAnuzMjlphB7rACEwYBhgL/s48/512%2Bx%2B512.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-48yddRaaZoo/XjJ3rm3CLNI/AAAAAAAAALE/Pvcih_vGVrAsR48oRFdbAnuzMjlphB7rACEwYBhgL/s72/512%2Bx%2B512.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-48yddRaaZoo/XjJ3rm3CLNI/AAAAAAAAALE/Pvcih_vGVrAsR48oRFdbAnuzMjlphB7rACEwYBhgL/s96/512%2Bx%2B512.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-48yddRaaZoo/XjJ3rm3CLNI/AAAAAAAAALE/Pvcih_vGVrAsR48oRFdbAnuzMjlphB7rACEwYBhgL/s144/512%2Bx%2B512.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-48yddRaaZoo/XjJ3rm3CLNI/AAAAAAAAALE/Pvcih_vGVrAsR48oRFdbAnuzMjlphB7rACEwYBhgL/s168/512%2Bx%2B512.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-48yddRaaZoo/XjJ3rm3CLNI/AAAAAAAAALE/Pvcih_vGVrAsR48oRFdbAnuzMjlphB7rACEwYBhgL/s192/512%2Bx%2B512.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-48yddRaaZoo/XjJ3rm3CLNI/AAAAAAAAALE/Pvcih_vGVrAsR48oRFdbAnuzMjlphB7rACEwYBhgL/s512/512%2Bx%2B512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
